@@ -15,3 +15,6 @@ Extracting information from the text is very popular and can be done in many way
 4. LDA model for topic clusterisation
 5. Conclusion
 
+
+To see the code in jupyter notebook:
+To see the LDA visualization: 
