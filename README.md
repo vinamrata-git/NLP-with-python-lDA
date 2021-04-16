@@ -16,5 +16,5 @@ Extracting information from the text is very popular and can be done in many way
 5. Conclusion
 
 
-To see the code in jupyter notebook:
-To see the LDA visualization: 
+* To see the code in jupyter notebook: https://github.com/vinamrata-git/NLP-with-python-lDA/blob/main/NLP_notebook.ipynb
+* To see the LDA visualization: 
